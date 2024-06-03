@@ -1,7 +1,11 @@
+import Navbar from "@/components/custom/layout/navbar"
+
+
 const Landing = () => {
     return (
         <div>
-            I am Landing
+            <Navbar />
+            I am landing
         </div>
     )
 }
